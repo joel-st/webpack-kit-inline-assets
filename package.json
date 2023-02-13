@@ -29,5 +29,9 @@
     "webpack-cli": "^5.0.0",
     "webpack-shell-plugin": "^0.5.0",
     "webpack-shell-plugin-next": "^2.3.1"
-  }
+  },
+	"engines": {
+		"node": "^18.14.0",
+		"npm": "^9.3.1"
+	}
 }
