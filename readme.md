@@ -17,7 +17,7 @@ Script entry point
 Style entry point which gets importet in `src/App.jsx`.
 
 ###### src/index.html
-HTML Template file. Use the comments `<!-- Buildstyle -->` and `<!-- Buildscript -->` to place your assets.
+HTML template file. Use the comments `<!-- Buildstyle -->` and `<!-- Buildscript -->` to place your assets.
 
 ### Build Files
 Webkit outputs an `index.html`, `main.js` and `main.css` file.
